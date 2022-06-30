@@ -1,11 +1,19 @@
 ﻿int[] array =  new int[InputData("Input array size: ")];
-int[] arrayCopy = new int[array.Length];
-FillArrayRandom(array);
-Console.Write("Original array: ");
-PrintArray(array);
-CopyArray(array, arrayCopy);
-Console.Write("Copied array: ");
-PrintArray(arrayCopy);
+if(array.Length != 0)
+{
+    int[] arrayCopy = new int[array.Length];
+    FillArrayRandom(array);
+    Console.Write("Original array: ");
+    PrintArray(array);
+    CopyArray(array, arrayCopy);
+    Console.Write("Copied array: ");
+    PrintArray(arrayCopy);
+}
+else
+{
+    Console.Write("Size of array is should be bigger than zero");
+}
+
 
 
 int InputData(string output)
