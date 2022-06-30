@@ -1,0 +1,15 @@
+C:\Users\G1Sup\Desktop\GB6\3_Fibonachi\bin\Debug\net6.0\3_Fibonachi.exe
+C:\Users\G1Sup\Desktop\GB6\3_Fibonachi\bin\Debug\net6.0\3_Fibonachi.deps.json
+C:\Users\G1Sup\Desktop\GB6\3_Fibonachi\bin\Debug\net6.0\3_Fibonachi.runtimeconfig.json
+C:\Users\G1Sup\Desktop\GB6\3_Fibonachi\bin\Debug\net6.0\3_Fibonachi.dll
+C:\Users\G1Sup\Desktop\GB6\3_Fibonachi\bin\Debug\net6.0\3_Fibonachi.pdb
+C:\Users\G1Sup\Desktop\GB6\3_Fibonachi\obj\Debug\net6.0\3_Fibonachi.csproj.AssemblyReference.cache
+C:\Users\G1Sup\Desktop\GB6\3_Fibonachi\obj\Debug\net6.0\3_Fibonachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G1Sup\Desktop\GB6\3_Fibonachi\obj\Debug\net6.0\3_Fibonachi.AssemblyInfoInputs.cache
+C:\Users\G1Sup\Desktop\GB6\3_Fibonachi\obj\Debug\net6.0\3_Fibonachi.AssemblyInfo.cs
+C:\Users\G1Sup\Desktop\GB6\3_Fibonachi\obj\Debug\net6.0\3_Fibonachi.csproj.CoreCompileInputs.cache
+C:\Users\G1Sup\Desktop\GB6\3_Fibonachi\obj\Debug\net6.0\3_Fibonachi.dll
+C:\Users\G1Sup\Desktop\GB6\3_Fibonachi\obj\Debug\net6.0\refint\3_Fibonachi.dll
+C:\Users\G1Sup\Desktop\GB6\3_Fibonachi\obj\Debug\net6.0\3_Fibonachi.pdb
+C:\Users\G1Sup\Desktop\GB6\3_Fibonachi\obj\Debug\net6.0\3_Fibonachi.genruntimeconfig.cache
+C:\Users\G1Sup\Desktop\GB6\3_Fibonachi\obj\Debug\net6.0\ref\3_Fibonachi.dll
